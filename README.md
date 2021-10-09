@@ -41,5 +41,5 @@ Data for GraphQL/Node Demo:
    yearFounded: 1989,
    landedOnMoon: false
  }
-];
+]
 ```
