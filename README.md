@@ -2,6 +2,10 @@
 
 Welcome to the VandyHacks VIII GraphQL Workshop!
 
+## Helpful Links
+
+[GraphQL Sandbox](https://api.graphql.jobs)
+
 Data for GraphQL/Node Demo:
 
 ```
